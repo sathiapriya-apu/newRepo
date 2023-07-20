@@ -4,10 +4,6 @@
  */
 package newrepo;
 
-/**
- *
- * @author sathiapriya
- */
 public class NewClass {
     
 }
